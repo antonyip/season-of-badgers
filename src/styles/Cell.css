@@ -1,0 +1,22 @@
+.score.filled {
+  color: blue;
+}
+.score.active {
+  color: red;
+  cursor: pointer;
+}
+.score.empty {
+  cursor: pointer;
+  opacity: 0;
+}
+.score.incomplete {
+  cursor: default; 
+}
+.score.gray {
+  color: #666;
+}
+
+
+.score-cell.active {
+	border: 1px solid red;
+}
