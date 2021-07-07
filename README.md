@@ -1,6 +1,8 @@
 # Welcome to Seasons of Badgers
+https://season-of-badgers-antonyip.vercel.app/
 
 ## How to play
+Insert Token, then try to score as many points as you can!
 
 ### If you would like to run the game locally
 Clone the repo...
